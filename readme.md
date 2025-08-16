@@ -2,6 +2,8 @@
 
 A **PHP-based newsletter system** with **OTP-based subscription/unsubscription** and a **daily cron job** that sends emails at **9 AM**.  
 
+## 🔗 Live Demo
+Check out the project here: [http://arul.fwh.is](http://arul.fwh.is)
 ---
 
 ##  Features
